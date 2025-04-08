@@ -1,4 +1,4 @@
-xVibe-chat-api
+# xVibe-chat-api
 ___
 This is a simple API for interactions with the database.
 
